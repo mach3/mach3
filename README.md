@@ -1,4 +1,12 @@
-### Hi there 👋
+
+![MATSUKAZE.design](./matsukaze-design.png)
+
+### Me
+
+- Freelance Web Developper / Multi Designer working at Shonan, JAPAN
+- Loving to sleep, play the piano, take a photo, swim
+- Web : https://matsukaze.design
+
 
 <!--
 **mach3/mach3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
