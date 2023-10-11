@@ -3,7 +3,7 @@
 
 ### Me
 
-- Freelance Web Developper / Multi Designer working at Shonan, JAPAN
+- Web Developper / Multi Designer working at Shonan, JAPAN
 - Loving to sleep, play the piano, take a photo, swim
 - Web : https://matsukaze.design
 
